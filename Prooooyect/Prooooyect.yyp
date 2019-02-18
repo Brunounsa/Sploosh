@@ -119,6 +119,22 @@
             }
         },
         {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "4e308652-165a-4350-a96e-b5326cef7e16",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "819c08c0-4f8e-49df-8a8a-41d1ab4c7a3c",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
             "Key": "3cae84b0-16c3-4f4a-9c29-080492f8ad9a",
             "Value": {
                 "id": "e24e3f9f-1493-4f7e-a15a-a295728e0b55",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "554f64aa-e1b4-4289-b394-19b0c1d2e259",
+            "Value": {
+                "id": "4cc132b2-d28b-4e9e-a2c6-3e2e323f8d51",
+                "resourcePath": "scripts\\scCollision\\scCollision.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "70866f04-9277-4715-8865-22a4e1e5bd67",
             "Value": {
                 "id": "e3314e64-1f2d-4be0-af1a-f0b64f2ccc08",
@@ -183,11 +207,51 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "e841b067-d0db-405a-be4b-4989866449dc",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "7d18e3e0-f049-4daa-bb4d-52e3d1bc618e",
             "Value": {
                 "id": "7f0929ff-79e3-4f8d-90bb-11f1b69a9ac6",
                 "resourcePath": "sprites\\sEnemyR\\sEnemyR.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "5d0e6ad1-60d3-4a1a-96e1-fc1819eddf82",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "82833558-8d78-454f-b7c3-a4114b9d4821",
+            "Value": {
+                "id": "56f0ee73-ff10-40fc-8bb7-62439bce6614",
+                "resourcePath": "objects\\oEnemyR\\oEnemyR.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "c62a741e-ada4-4173-adf1-6b41a9ec6794",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "a7eed33c-9234-4cf4-b2e7-4b7ed2e6c5a7",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
             }
         },
         {
@@ -207,11 +271,35 @@
             }
         },
         {
+            "Key": "9c1c06d3-b67b-45f2-b195-69e0f6f04315",
+            "Value": {
+                "id": "6c194dc8-cb96-4906-bb62-ec1ee8e2c18f",
+                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e955f73-dbc6-4e79-82bc-3278cce6a020",
             "Value": {
                 "id": "1cd9579a-6a35-404d-b317-f37a2fb273cf",
                 "resourcePath": "sprites\\sPlayerR\\sPlayerR.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "7d44946a-37a3-48d6-b69b-8760d55b4424",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "6bf54216-d742-40a6-9789-3e3153fbb355",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -239,6 +327,14 @@
             }
         },
         {
+            "Key": "d599eb1d-a07b-4f2a-bf5f-abd001959802",
+            "Value": {
+                "id": "ee6d6108-f3f2-4eb5-8a9d-20eee57a8f62",
+                "resourcePath": "shaders\\shWhite\\shWhite.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "d6318a0b-a849-4bd7-87fd-11700803eea1",
             "Value": {
                 "id": "d00f32f6-b7a1-4958-9406-5af9c4bad51d",
@@ -252,6 +348,14 @@
                 "id": "8cc5dbc8-7120-4180-a3c2-d0e21f697b0b",
                 "resourcePath": "views\\dcdf08a7-527a-4213-b87d-45357c711a41.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "8767ff77-a98e-4a8e-b0cf-d9c8417910a1",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
@@ -279,6 +383,22 @@
             }
         },
         {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "85bf4e0d-9e6a-4c9f-bbac-98647e0ecc59",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "f78d06b9-bbff-4302-a6b7-f9a98eb85862",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
             "Key": "fcd2aa1b-7766-444a-bc52-268f8d5efbab",
             "Value": {
                 "id": "2cf6373a-838f-4bf8-bc8c-d4f0d5bbf86c",
@@ -288,7 +408,7 @@
         }
     ],
     "script_order": [
-        
+        "554f64aa-e1b4-4289-b394-19b0c1d2e259"
     ],
     "tutorial": ""
 }
