@@ -2,13 +2,13 @@
     "id": "80241fe9-c867-4de8-b08b-fd649df88c80",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sTilesBasic",
+    "name": "sBasicTiles",
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 383,
+    "bbox_bottom": 191,
     "bbox_left": 0,
-    "bbox_right": 511,
+    "bbox_right": 255,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -38,9 +38,9 @@
             ]
         }
     ],
-    "gridX": 4,
-    "gridY": 4,
-    "height": 384,
+    "gridX": 16,
+    "gridY": 16,
+    "height": 192,
     "layers": [
         {
             "id": "81b7b2fd-329b-4914-83f5-dfa387eaa395",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 512,
+    "width": 256,
     "xorig": 0,
     "yorig": 0
 }
